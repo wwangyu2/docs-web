@@ -19,7 +19,7 @@ export default defineUserConfig({
 
     navbar: [
       { text: '首页', link: '/' },
-      // { text: '快速开始', link: '/get-started' },
+      { text: '知识', link: '/Markdown知识点' },
       // { text: '实验', link: '/get-started1'}
     ],  
 

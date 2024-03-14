@@ -7,7 +7,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import fullTextSearchPlugin from "vuepress-plugin-full-text-search2";
 
 export default defineUserConfig({
-  base:'/test',//部署站点的基础路径,默认/
+  base:'/docs-web/',//部署站点的基础路径,默认/
   lang: 'zh-CN',
 
   title: 'FakeOpen文档站',

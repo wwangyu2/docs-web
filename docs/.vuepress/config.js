@@ -10,8 +10,8 @@ export default defineUserConfig({
   base:'/docs-web/',//部署站点的基础路径,默认/
   lang: 'zh-CN',
 
-  title: 'FakeOpen文档站',
-  description: '详细介绍FakeOpen系列使用方法。',
+  title: '不知道文档站',
+  description: '不知道文档站。',
   head: [['link', { rel: 'icon', href: 'https://wangyu2018.eu.org/sexy-girl/周麟嘉.jpg' }]],//站点头部的icon
 
   theme: hopeTheme({
